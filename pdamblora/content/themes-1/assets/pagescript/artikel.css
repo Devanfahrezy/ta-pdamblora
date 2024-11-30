@@ -1,0 +1,13 @@
+.img-post-fit{
+	object-fit: cover; /* Do not scale the image */
+    object-position: center; /* Center the image within the element */
+    width: 100%; /* Do not scale the image */
+    height: 300px;
+}
+
+.img-mini-artikel {
+	object-fit: cover; /* Do not scale the image */
+    object-position: center; /* Center the image within the element */
+    width: 60px; /* Do not scale the image */
+    height: 60px;
+}

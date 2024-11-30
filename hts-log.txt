@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Nov 2024 10:06:31 at https://pdamgowa.co.id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pdamgowa.co.id/ -O1 "C:\xampp\htdocs\pdamgowa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:39:21	Error: 	"Not Found" (404) at link https://pdamgowa.co.id/content/themes-1/assets/js/owl.carousel.min.js (from https://pdamgowa.co.id/)
+10:39:21	Error: 	"Not Found" (404) at link https://pdamgowa.co.id/content/themes-1/assets/fonts/bootstrapThemesCo-icon.eot?dcpptv (from https://pdamgowa.co.id/content/themes-1/assets/css/iconfont.css)
+10:39:21	Error: 	"Not Found" (404) at link https://pdamgowa.co.id/content/themes-1/assets/fonts/bootstrapThemesCo-icon.ttf?dcpptv (from https://pdamgowa.co.id/content/themes-1/assets/css/iconfont.css)
+10:39:21	Error: 	"Not Found" (404) at link https://pdamgowa.co.id/content/themes-1/assets/fonts/bootstrapThemesCo-icon.woff?dcpptv (from https://pdamgowa.co.id/content/themes-1/assets/css/iconfont.css)
+10:39:21	Error: 	"Not Found" (404) at link https://pdamgowa.co.id/content/themes-1/assets/fonts/bootstrapThemesCo-icon.svg?dcpptv (from https://pdamgowa.co.id/content/themes-1/assets/css/iconfont.css)
+10:39:21	Error: 	"Not Found" (404) at link https://pdamgowa.co.id/content/themes-1/assets/images/loader.gif (from https://pdamgowa.co.id/content/themes-1/assets/pagescript/custom.css)
+10:39:21	Error: 	"Not Found" (404) at link pdamgowa.co.id/upload/a588e1486956e39ddb920606aa9b60cf204817209120170320.png (from pdamgowa.co.id/home)
+10:41:12	Error: 	"Not Found" (404) at link pdamgowa.co.id/berita/content/themes-1/assets/pagescript/artikel.css (from pdamgowa.co.id/berita/direktur-utama-perumda-tirta-jeneberang-melaksanakan-umroh-bersama-rombongan-pegawai-penerima-undian-umroh-2024)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 minutes 38 seconds : 277 links scanned, 267 files written (103957875 bytes overall) [101813544 bytes received at 36387 bytes/sec], 2795689 bytes transferred using HTTP compression in 81 files, ratio 20%, 2.0 requests per connection
+(8 errors, 0 warnings, 0 messages)
